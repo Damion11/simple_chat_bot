@@ -1,4 +1,7 @@
 import pyttsx3  #get python text to speech engine
+
+
+#conversation begins
 friend = pyttsx3.init()
 friend.say("Hello, My name is Banna! "
             "I am a computer. "
